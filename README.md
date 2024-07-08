@@ -1,1 +1,1 @@
-Sprint 1 Rewiew wiki sayfası olarak eklendi .
+Sprint 1 Review wiki sayfası olarak eklendi .
