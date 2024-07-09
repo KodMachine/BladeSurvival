@@ -1,4 +1,4 @@
-### Blade Survivor
+# Blade Survivor
 
 ## Team Members 
 * Yazgı Kavukçu - Developer
