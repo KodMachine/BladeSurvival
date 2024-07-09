@@ -11,6 +11,10 @@
 * Lastly, the first tickets were created for starting the project.
 
 ## Initial Workload :
+
+### Mechanics To-Do
 ![Mechanics Tickets](https://github.com/KodMachine/BladeSurvival/blob/main/BladeSurvivor/ScreenShots/mechanics.png)
+### UI To-Do
 ![UI Tickets](https://github.com/KodMachine/BladeSurvival/blob/main/BladeSurvivor/ScreenShots/ui.png)
+### Shared Work To-Do
 ![Shared and Research Tickets](https://github.com/KodMachine/BladeSurvival/blob/main/BladeSurvivor/ScreenShots/shared.png)
