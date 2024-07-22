@@ -18,3 +18,8 @@
 ![UI Tickets](https://github.com/KodMachine/BladeSurvival/blob/main/BladeSurvivor/ScreenShots/ui.png)
 ### Shared Work To-Do
 ![Shared and Research Tickets](https://github.com/KodMachine/BladeSurvival/blob/main/BladeSurvivor/ScreenShots/shared.png)
+
+## Sprint 2 Review : 
+* Player added to the game. Player controller is improving.
+* The game assets has been decided.
+* Lastly, the first tickets done for the project.
