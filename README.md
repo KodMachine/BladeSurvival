@@ -23,3 +23,8 @@
 * Player added to the game. Player controller is improving.
 * The game assets has been decided.
 * Lastly, the first tickets done for the project.
+  
+* ## Sprint 3 Review : 
+* Player controller is improved.
+* The game assets has been added.
+* Lastly, the second tickets done for the project.
